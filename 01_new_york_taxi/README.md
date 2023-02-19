@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a project from the Data Analyst course from [Karpov.Courses](https://karpov.courses/analytics) that I enrolled in June 2022. In the project, I used basic EDA techniques, from the pandas library, such as **.shape(), .dtypes, .describe, .groupby(), .idxmin(), .idxmax(), .sort_values(), .pd.read_csv()**, as well as writing functions.
+This is a project from the Data Analyst course from [Karpov.Courses](https://external.ink?to=/https://karpov.courses/analytics) that I enrolled in June 2022. In the project, I used basic EDA techniques, from the pandas library, such as **.shape(), .dtypes, .describe, .groupby(), .idxmin(), .idxmax(), .sort_values(), .pd.read_csv()**, as well as writing functions.
 
 ## Dataset Fields:
 
@@ -26,7 +26,6 @@ This is a project from the Data Analyst course from [Karpov.Courses](https://kar
 ## Contact
 
 * Connect with me on:
-   📜   [Email](mailto:alexey.golovin@gmail.com)
-    🏦 [LinkedIn](https://www.linkedin.com/in/alexey-golovin/)
+   📜   [Email](mailto:alexey.golovin@gmail.com)  
+    🏦 <a href="https://www.linkedin.com/in/alexey-golovin/" target="_blank">LinkedIn</a>  
   
- 
