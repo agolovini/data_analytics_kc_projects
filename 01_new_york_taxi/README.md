@@ -25,6 +25,6 @@ This is a project from the Data Analyst course from [Karpov.Courses](https://ext
 
 ## Contact
 
-* Connect with me on:
-    📜[Email](mailto:alexey.golovin@gmail.com)
-    🏦 <a href="https://www.linkedin.com/in/alexey-golovin/">LinkedIn</a>
+* Connect with me on:   
+    📜[Email](mailto:alexey.golovin@gmail.com)   
+    🏦 <a href="https://www.linkedin.com/in/alexey-golovin/">LinkedIn</a>   
