@@ -2,19 +2,20 @@
 
 ## Description
 
-This is another project from the Data Analyst course from [Karpov.Courses](https://external.ink?to=/https://karpov.courses/analytics) that I enrolled in June 2022. In this project, I used basic EDA and cleaning techniques, 
+This is another project from the Data Analyst course from [Karpov.Courses](https://external.ink?to=/https://karpov.courses/analytics) that I enrolled in June 2022. In this project, I used basic EDA and aggregating techniques, 
 from the **Pandas** and **Seaborn** library, such as:
 
-**pd.to_datetime, 
-.dtypes, 
-.groupby(), .agg()
-.mul()
-.reset_index()
-.idxmax(), 
-.sort_values(), 
-.pd.read\_csv() with `parse_dates` parametr
-.sns.set_palette(), sns.barplot(), sns.countplot()
-** and finally calculate **Churn Rate** over function 
+`pd.to_datetime`, 
+`.dtypes`, 
+`dt.strftime('%A')`
+`.groupby()`, `.agg()`
+`.mul()`
+`.reset_index()`
+`.idxmax()`, 
+`.sort_values()`, 
+`.pd.read\_csv()` with `parse_dates` parametr
+`.sns.set_palette()`, `sns.barplot()`, `sns.countplot()`
+and finally calculate **MAU**  
 
 ## Dataset Fields:
 
